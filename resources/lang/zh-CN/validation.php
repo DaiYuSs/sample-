@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'required' => '不能为空',
+    'required' => ':attribute 不能为空',
 ];
